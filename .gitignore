@@ -1,0 +1,5 @@
+/src/data_preprocessing/files_loc.csv
+/src/calculate_radiomics/pyrad_log.txt
+/src/calculate_radiomics/radiomics_features.csv
+/src/calculate_features/features.csv
+/src/calculate_features/patient_features.csv
